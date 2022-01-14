@@ -1,3 +1,3 @@
 # Hello-World
-First Python
-IBM Data Analyst Professional Certificate: Course Projects. 
+IBM Data Analyst Professional Certificate: Course Development and Projects. 
+Python and SQL. 
